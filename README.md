@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Eletronica0Mountain">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexYeye&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eletronica0Mountain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eletronica0Mountain&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
