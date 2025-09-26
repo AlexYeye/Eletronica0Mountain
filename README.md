@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Mountain Baja
+## Bem-vindo(a) ao perfil do Mountain Baja Equipe de competição de carros offroad Unifei Itabira
 
  <div>
    <a href="https://github.com/Eletronica0Mountain">
